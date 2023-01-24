@@ -1,0 +1,5 @@
+.header {
+    color: aliceblue;
+    display: flex;
+    background-color: rgba(60, 10, 10, 10);
+}
